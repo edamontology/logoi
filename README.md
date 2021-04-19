@@ -1,2 +1,4 @@
-# logoi
-Various suggestions of logoi for EDAM and related tools
+# EDAM logoi
+Various suggestions of _logoi_ for EDAM and related tools.
+
+Please feel welcome to contribute more (via pull requests), the EDAM community appreciates it! 🙏🏽😸
