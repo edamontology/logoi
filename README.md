@@ -7,6 +7,15 @@ The best way is to fork this repo, add a **new file** (ideally **SVG** 🚝) wit
 
 Legal stuff: By creating a pull request, you are sharing your design under the CC BY-SA 4.0 license, while maintaining the authorship of your design. If you're re-using someone else's work in your design, please make sure that you follow the terms of its license (_e.g._ attributing the original authors).
 
+### [@edamontology](https://github.com/edamontology/edamontology)
+<table>
+<tr>
+<td><img src="https://github.com/edamontology/edamontology/blob/main/EDAM-logo-square.svg" width="256px"/></td>
+<td><img src="https://github.com/edamontology/edamontology/blob/main/EDAM-logo-square.svg" width="96px"/></td>
+<td><img src="https://github.com/edamontology/edamontology/blob/main/EDAM-logo-square.svg" width="32px"/></td>
+</tr>
+</table>
+
 ### [@pooja2299](https://github.com/pooja2299)
 <table>
 <tr>
